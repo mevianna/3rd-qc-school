@@ -5,7 +5,7 @@
 This repository contains the references cited in the poster **“Quantum Software for Molecular Electronic Structure Simulation: From Fermionic Operators to Qubit Hamiltonians in Ket,”** presented at the **3rd Quantum Computing School**.
 
 
-| # | Referência |
+| # | Reference |
 |---|---|
 | 1 | BRAVYI, S. B.; KITAEV, A. Y. Fermionic quantum computation. *Annals of Physics*, v. 298, p. 210–226, 2002. |
 | 2 | BRAVYI, S.; GAMBETTA, J. M.; MEZZACAPO, A.; TEMME, K. T. Tapering off qubits to simulate fermionic Hamiltonians. *arXiv:1701.08213*, 2017. |
